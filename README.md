@@ -1,7 +1,7 @@
 # Dataset
 ## Introduction
-* [Alarm Dataset](./alarm/): 3 real datasets (id:10, 21, 22) used in [PCIC Causal Discovery Competition 2021](https://competition.huaweicloud.com/information/1000041487/introduction).
-* [CSL_ESPK Dataset](./csl_espk/):
+* [Alarm](./alarm/): 3 real datasets (id:10, 21, 22) used in [PCIC Causal Discovery Competition 2021](https://competition.huaweicloud.com/information/1000041487/introduction).
+* [CSL_ESPK](./csl_espk/):
 6 datasets including 1 real dataset, and 5 simulation datasets based on domain knowledge, which are used in [NeurIPS 2023 CSL competition](https://gcastle-hub.github.io/csl-competition/).
 ## Evaluation
 The following table contains F1-scores of some competitive causal discovery algorithms on the real-world alarm datasets used in the [PCIC competition 2021](https://competition.huaweicloud.com/information/1000041487/introduction).
